@@ -71,10 +71,24 @@ const projects: Project[] = [
     title: "Sistema de Controle Financeiro",
     description:
       "Aplicação web para controle financeiro pessoal e empresarial, permitindo gestão de receitas, despesas, categorização de transações e geração de relatórios. Sistema com autenticação segura e interface intuitiva para acompanhamento das finanças.",
-    image:
-      "/img/Lucid_Realism_A_serene_and_organized_minimalist_photography_ca_0.jpg",
+    image: "/publicimgcontrole_financeiro.png",
     technologies: ["Java", "Spring Boot", "JWT", "PostgreSQL", "REST API"],
     link: "https://github.com/rafaelzagui/Financial-Control",
+  },
+  {
+    title: "Gateway de Pagamento",
+    description:
+      "Serviço backend desenvolvido para integração completa com gateway de pagamento. Sistema robusto utilizando Express.js para processamento de transações, validações de segurança e gestão de pagamentos. Inclui APIs RESTful para e-commerce com logs detalhados e controle de erros.",
+    image: "/img/gateway_pagamento.png",
+    technologies: [
+      "Node.js",
+      "Express.js",
+      "JavaScript",
+      "Gateway API",
+      "REST API",
+      "Nodemon",
+    ],
+    link: "https://github.com/rafaelzagui/Gateway-de-pagamento",
   },
 ];
 
