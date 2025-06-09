@@ -71,7 +71,7 @@ const projects: Project[] = [
     title: "Sistema de Controle Financeiro",
     description:
       "Aplicação web para controle financeiro pessoal e empresarial, permitindo gestão de receitas, despesas, categorização de transações e geração de relatórios. Sistema com autenticação segura e interface intuitiva para acompanhamento das finanças.",
-    image: "/public/img/controle_financeiro.png",
+    image: "/img/controle_financeiro.png",
     technologies: ["Java", "Spring Boot", "JWT", "PostgreSQL", "REST API"],
     link: "https://github.com/rafaelzagui/Financial-Control",
   },
