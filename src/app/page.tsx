@@ -270,7 +270,7 @@ export default function Home() {
           <div className="flex gap-8 text-center">
             <div>
               <div className="text-2xl font-bold text-[var(--color-destaque)]">
-                3+
+                5+
               </div>
               <div className="text-xs text-gray-400">Anos de experiência</div>
             </div>
